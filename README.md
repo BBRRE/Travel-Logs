@@ -8,3 +8,11 @@ I want this to be a collection of travel itineraries where people post their hon
 
 # Why Open Source and How Can You Help
 I have decided to open source so I can see the website come to life because right now I haven't got the skills or the time to develop this further. If you are a developer, designer, writer, travel influencer or if you have a skill set that you think can help elevate this project, feel free to contribute on this GitHub or contact me.
+
+
+# Main goals
+* Accessibility - self explanatory, I'm sure I missed out on many very important features
+* UI - I did improve the form so it collects more data but the issue is how can you display it in a visually appealing way while keeping it detailed.
+* Spelling - I wish this was a joke but I am pretty sure I mispelled many variables
+* Searching - I want to delay this since it would be best to use a paid service and I dont want to spend my own money so we will implement this later on
+* Moderation - Very important
